@@ -1,1 +1,2 @@
-# it Has all the basic python programs for practice
+# kk
+#basic old school programs
