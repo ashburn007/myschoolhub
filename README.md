@@ -1,2 +1,1 @@
-# kk
-#basic old school programs
+#Old school programs
